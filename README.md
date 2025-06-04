@@ -52,4 +52,4 @@ financial-assistance-website/
 
 ## 🚀 Live Demo
 
-Check out the live website here: https://shivani16kulkarni.github.io/Financial-Assitance-Website/
+Check out the live website here: https://shivani16kulkarni.github.io/Financial-Assistance-Website/
